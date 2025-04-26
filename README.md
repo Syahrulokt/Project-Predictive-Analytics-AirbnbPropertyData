@@ -259,7 +259,7 @@ Sebagai hasil akhir dari modeling, terdapat beberapa rekomendasi yang dapat dibe
 Dalam project ini, evaluasi performa model regresi dilakukan menggunakan empat metrik yaitu sebagai berikut:
 1. Nilai Prediksi Revenue
 
-Tabel 2. Evaluasi Kinerja Model Prediksi Revenue
+Tabel 1. Evaluasi Kinerja Model Prediksi Revenue
 
 | Model | MAE |	MSE | RMSE | R² |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
