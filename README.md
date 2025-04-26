@@ -198,7 +198,8 @@ B. Model Linear Regression untuk Prediksi Revenue
 
 Berikut jawaban dan analisis dari 7 pertanyaan yang telah dijelaskan sebelumnya:
 1. Apa saja area dengan peringkat tertinggi untuk memesan akomodasi di Seattle?
-
+![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%201.png)
+Gambar 2. Grafik Smoker
 Top 10 lingkungan Terbaik dengan Peringkat Tertinggi terdaftar di atas dalam urutan menurun.
 
 2. Apa saja lingkungan dengan revenue tertinggi di Seattle?
@@ -239,7 +240,7 @@ Interpretasi: Model dapat menjelaskan sekitar 23,34% variasi revenue dalam data 
 
 
 2. Nilai Prediksi Rating
-   
+  
 | Model | MAE |	MSE | RMSE | R² |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |Prediksi Rating | 2.30 | 13.76 | 3.71 | 0.5623 |
