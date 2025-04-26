@@ -230,14 +230,14 @@ Sebagai hasil akhir dari modeling, terdapat beberapa rekomendasi yang dapat dibe
 ## Evaluation
 Dalam project ini, evaluasi performa model regresi dilakukan menggunakan empat metrik yaitu sebagai berikut:
 1. Nilai Prediksi Revenue
-Model | MAE |	MSE | RMSE | R² |
+** Model | MAE |	MSE | RMSE | R² |
 :-----:|:-----:|:-----:|:-----:|:-----:|
 Prediksi Revenue | 2605.32 | 14788958.46 | 3845.44 | 0.2334 |
 
 Interpretasi: Model dapat menjelaskan sekitar 23,34% variasi revenue dalam data uji. Nilai RMSE yang cukup besar menunjukkan bahwa ada banyak variabel lain yang tidak dimodelkan secara optimal atau ketidakteraturan dalam data revenue.
 
 2. Nilai Prediksi Rating
-Model | MAE |	MSE | RMSE | R² |
+** Model | MAE |	MSE | RMSE | R² |
 :-----:|:-----:|:-----:|:-----:|:-----:|
 Prediksi Rating | 2.30 | 13.76 | 3.71 | 0.5623 |
 
