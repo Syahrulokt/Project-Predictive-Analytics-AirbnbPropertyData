@@ -201,32 +201,49 @@ Berikut jawaban dan analisis dari 7 pertanyaan yang telah dijelaskan sebelumnya:
 
 ![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%201.png)
 
-Tabel 1. Top 10 area terbaik
-   
-Top 10 lingkungan Terbaik dengan Peringkat Tertinggi terdaftar di atas dalam urutan menurun.
+Gambar 1. Top 10 Area dengan Peringkat Tertinggi
+Top 10 area Terbaik dengan Peringkat Tertinggi terdaftar di atas dalam urutan menurun.
 
-3. Apa saja lingkungan dengan revenue tertinggi di Seattle?
+2. Apa saja lingkungan dengan revenue tertinggi di Seattle?
 
-Top 10 Lingkungan dengan Pendapatan Tertinggi terdaftar di atas dalam urutan menurun.
+![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%202.png)
+
+Gambar 2. Top 10 Area dengan Pendapatan Tertinggi
+Top 10 area dengan Pendapatan Tertinggi terdaftar di atas dalam urutan menurun.
 
 3. Apa saja fasilitas yang paling banyak disediakan oleh tuan rumah di Seattle?
 
+![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%203.png)
+
+Gambar 3. Grafik Top 15 Fasilitas
 Top 15 Fasilitas Teratas yang Paling Banyak Disediakan tercantum di atas dalam urutan menurun.
 
 4. Skor mana yang paling penting untuk ratings keseluruhan?
 
+![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%204.png)
+
+Gambar 4. Grafik Top 6 Riview Scores
 Tiga faktor riview teratas yang mempengaruhi penilaian keseluruhan untuk seorang tuan rumah adalah Value, Cleanliness dan Accuracy.
 
 5. Apakah tuan rumah dengan ratings lebih tinggi secara keseluruhan menghasilkan revenue lebih tinggi?
 
+![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%205.png)
+
+Gambar 5. Grafik Top Riview Scores
 Rating yang lebih tinggi tidak secara signifikan meningkatkan revenue. Hubungan antara rating dan revenue sangat lemah (R² hanya 0,11%), sehingga faktor lain di luar rating lebih berpengaruh terhadap potensi revenue sebuah listing.
 
 6. Fasilitas, karakteristik perumahan, dan faktor apa yang berkontribusi positif terhadap revenue?
 
+![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%206.png)
+
+Gambar 6. Grafik Top 25 Fasilitas, Karakteristik Perumahan, dan Faktor Serupa yang Paling Berkontribusi Positif terhadap Revenue
 Revenue lebih tinggi ditemukan pada listings dengan kebijakan pembatalan ketat, status Super Host, pengalaman check-in yang baik, dan tipe kamar "Seluruh Rumah atau Apartemen". Karakteristik properti yang paling berkontribusi positif meliputi Chalet, Tent, Cabin, Apartment, House, Bed & Breakfast, Townhouse, Dormitory, Bungalow, Treehouse, dan Yurt. Fasilitas bernilai tinggi termasuk Doorman, Other Pets, Hot Tub, Breakfast, Washer, Laptop-friendly Workplace, Pool, Buzzer/Wireless Intercom, serta Washer & Dryer.
 
 7. Fasilitas, karakteristik perumahan, dan faktor apa yang berkontribusi positif terhadap ratings?
 
+![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%207.png)
+
+Gambar 7. Grafik Top 25 Fasilitas, Karakteristik Perumahan, dan Faktor Serupa yang Paling Berkontribusi Positif terhadap Rating
 Ratings lebih tinggi ditemukan pada listings dengan host berstatus Super Host dan terverifikasi, serta rating positif untuk nilai, kebersihan, akurasi, komunikasi, check-in, dan lokasi. Properti asrama dan rumah dengan lebih banyak kamar mandi juga berkontribusi positif. Fasilitas yang meningkatkan rating termasuk Washer & Dryer, Elevator, Pets live on property, Suitable for Events, Other Pets allowed, Safety Card, Kitchen, dan Smoker-friendly. Lingkungan dengan rating tinggi meliputi Rainier Valley, Central Area, Beacon Hill, Delridge, West Seattle, dan Capitol Hill.
 
 Sebagai hasil akhir dari modeling, terdapat beberapa rekomendasi yang dapat diberikan kepada tuan rumah Airbnb untuk meningkatkan performa listing mereka. Untuk meningkatkan rating, tuan rumah disarankan untuk fokus pada peningkatan nilai untuk harga, menjaga kebersihan properti secara konsisten, serta memberikan deskripsi properti yang akurat dan sesuai dengan kondisi nyata. Sementara itu, untuk meningkatkan revenue, tuan rumah dapat mempertimbangkan untuk menyediakan fasilitas tambahan seperti Hot Tub, Washer/Dryer, layanan Doorman Service, serta menerapkan kebijakan pembatalan yang ketat dan memperoleh status Superhost, karena faktor-faktor tersebut terbukti berkontribusi positif terhadap peningkatan pendapatan listing.
