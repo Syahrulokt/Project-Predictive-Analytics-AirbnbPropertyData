@@ -236,6 +236,11 @@ Prediksi Revenue | 2605.32 | 14788958.46 | 3845.44 | 0.2334 |
 
 Interpretasi: Model dapat menjelaskan sekitar 23,34% variasi revenue dalam data uji. Nilai RMSE yang cukup besar menunjukkan bahwa ada banyak variabel lain yang tidak dimodelkan secara optimal atau ketidakteraturan dalam data revenue.
 
+| **  | y_true   | prediksi_KNN | prediksi_RF | prediksi_Boosting |
+|:---:|:--------:|:------------:|:-----------:|:-----------------:|
+| 992 | 10118.42 | 12328.2      | 10616.4     | 13157.5           |
+
+
 2. Nilai Prediksi Rating
 | Model | MAE |	MSE | RMSE | R² |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
