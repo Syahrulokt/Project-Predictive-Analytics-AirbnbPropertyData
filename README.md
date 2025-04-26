@@ -237,8 +237,8 @@ Prediksi Revenue | 2605.32 | 14788958.46 | 3845.44 | 0.2334 |
 Interpretasi: Model dapat menjelaskan sekitar 23,34% variasi revenue dalam data uji. Nilai RMSE yang cukup besar menunjukkan bahwa ada banyak variabel lain yang tidak dimodelkan secara optimal atau ketidakteraturan dalam data revenue.
 
 2. Nilai Prediksi Rating
-** Model | MAE |	MSE | RMSE | R² |
-:-----:|:-----:|:-----:|:-----:|:-----:|
-Prediksi Rating | 2.30 | 13.76 | 3.71 | 0.5623 |
+| Model | MAE |	MSE | RMSE | R² |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|Prediksi Rating | 2.30 | 13.76 | 3.71 | 0.5623 |
 
 Interpretasi: Model mampu menjelaskan sekitar 56,23% variasi skor rating dengan tingkat kesalahan prediksi yang cukup kecil. Ini mengindikasikan model cukup baik dalam mengestimasi rating berdasarkan fitur yang dipilih.
