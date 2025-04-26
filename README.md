@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Mochammad Syahrul Abidin
+# Laporan Project Machine Learning - Mochammad Syahrul Abidin
 
 ## Project Overview
 
