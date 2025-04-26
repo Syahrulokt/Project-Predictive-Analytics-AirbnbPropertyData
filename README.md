@@ -198,8 +198,9 @@ B. Model Linear Regression untuk Prediksi Revenue
 
 Berikut jawaban dan analisis dari 7 pertanyaan yang telah dijelaskan sebelumnya:
 1. Apa saja area dengan peringkat tertinggi untuk memesan akomodasi di Seattle?
-   ![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%201.png)
-   Tabel 1. Top 10 area terbaik
+
+![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%201.png)
+Tabel 1. Top 10 area terbaik
    
 Top 10 lingkungan Terbaik dengan Peringkat Tertinggi terdaftar di atas dalam urutan menurun.
 
