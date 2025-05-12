@@ -198,6 +198,7 @@ B. Model Linear Regression untuk Prediksi Revenue
 
 Berikut jawaban dan analisis dari 7 pertanyaan yang telah dijelaskan sebelumnya:
 1. Apa saja area dengan peringkat tertinggi untuk memesan akomodasi di Seattle?
+![Jawaban pertanyaan 1](https://github.com/user-attachments/assets/26a45e4d-bc71-4072-93ae-61393dfad8ab)
 
 ![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%201.png)
 
