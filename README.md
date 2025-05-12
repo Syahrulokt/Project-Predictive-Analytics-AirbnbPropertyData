@@ -198,9 +198,8 @@ B. Model Linear Regression untuk Prediksi Revenue
 
 Berikut jawaban dan analisis dari 7 pertanyaan yang telah dijelaskan sebelumnya:
 1. Apa saja area dengan peringkat tertinggi untuk memesan akomodasi di Seattle?
-![Jawaban pertanyaan 1](https://github.com/user-attachments/assets/26a45e4d-bc71-4072-93ae-61393dfad8ab)
 
-![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%201.png)
+![Jawaban pertanyaan 1](https://github.com/user-attachments/assets/26a45e4d-bc71-4072-93ae-61393dfad8ab)
 
 Gambar 1. Top 10 Area dengan Peringkat Tertinggi
 
@@ -208,7 +207,7 @@ Top 10 area Terbaik dengan Peringkat Tertinggi terdaftar di atas dalam urutan me
 
 2. Apa saja lingkungan dengan revenue tertinggi di Seattle?
 
-![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%202.png)
+![Jawaban pertanyaan 2](https://github.com/user-attachments/assets/33287145-f391-46c5-8aca-3727f04bb7d1)
 
 Gambar 2. Top 10 Area dengan Pendapatan Tertinggi
 
@@ -216,7 +215,7 @@ Top 10 area dengan Pendapatan Tertinggi terdaftar di atas dalam urutan menurun.
 
 3. Apa saja fasilitas yang paling banyak disediakan oleh tuan rumah di Seattle?
 
-![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%203.png)
+![Jawaban pertanyaan 3](https://github.com/user-attachments/assets/017f4c08-3854-413d-ba1d-b72264f5880f)
 
 Gambar 3. Grafik Top 15 Fasilitas
 
@@ -224,7 +223,7 @@ Top 15 Fasilitas Teratas yang Paling Banyak Disediakan tercantum di atas dalam u
 
 4. Skor mana yang paling penting untuk ratings keseluruhan?
 
-![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%204.png)
+![Jawaban pertanyaan 4](https://github.com/user-attachments/assets/5eab1d3c-9eb7-4124-b3da-1e8de247fcb6)
 
 Gambar 4. Grafik Top 6 Riview Scores
 
@@ -232,7 +231,7 @@ Tiga faktor riview teratas yang mempengaruhi penilaian keseluruhan untuk seorang
 
 5. Apakah tuan rumah dengan ratings lebih tinggi secara keseluruhan menghasilkan revenue lebih tinggi?
 
-![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%205.png)
+![Jawaban pertanyaan 5](https://github.com/user-attachments/assets/bd73183a-944b-4ec2-8e3f-5ba90c61eff1)
 
 Gambar 5. Grafik Top Riview Scores
 
@@ -240,7 +239,7 @@ Rating yang lebih tinggi tidak secara signifikan meningkatkan revenue. Hubungan 
 
 6. Fasilitas, karakteristik perumahan, dan faktor apa yang berkontribusi positif terhadap revenue?
 
-![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%206.png)
+![Jawaban pertanyaan 6](https://github.com/user-attachments/assets/bb7f79c3-8b80-4491-b3f7-e324fd120199)
 
 Gambar 6. Grafik Top 25 Fasilitas, Karakteristik Perumahan, dan Faktor Serupa yang Paling Berkontribusi Positif terhadap Revenue
 
@@ -248,7 +247,7 @@ Revenue lebih tinggi ditemukan pada listings dengan kebijakan pembatalan ketat, 
 
 7. Fasilitas, karakteristik perumahan, dan faktor apa yang berkontribusi positif terhadap ratings?
 
-![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Jawaban%20pertanyaan%207.png)
+![Jawaban pertanyaan 7](https://github.com/user-attachments/assets/4d85c626-8514-4d97-b476-cf8f65b00291)
 
 Gambar 7. Grafik Top 25 Fasilitas, Karakteristik Perumahan, dan Faktor Serupa yang Paling Berkontribusi Positif terhadap Rating
 
@@ -266,7 +265,7 @@ Tabel 1. Evaluasi Kinerja Model Prediksi Revenue
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |Prediksi Revenue | 2605.32 | 14788958.46 | 3845.44 | 0.2334 |
 
-![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Evaluasi%20Prediksi%20Revenue.png)
+![Evaluasi Prediksi Revenue](https://github.com/user-attachments/assets/e0a4bbbd-c865-445e-8b45-6ff55112fa26)
 
 Gambar 8. Actual vs Predicted (Revenue)
 
@@ -281,7 +280,7 @@ Tabel 2. Evaluasi Kinerja Model Prediksi Rating
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |Prediksi Rating | 2.30 | 13.76 | 3.71 | 0.5623 |
 
-![grafik smoker](https://github.com/Syahrulokt/Project-Predictive-Analytics-AirbnbPropertyData/blob/main/Image/Evaluasi%20Prediksi%20Rating.png)
+![Evaluasi Prediksi Rating](https://github.com/user-attachments/assets/b2e5b584-ecee-459f-bf86-ad90276bfa05)
 
 Gambar 9. Actual vs Predicted (Rating) 
 
