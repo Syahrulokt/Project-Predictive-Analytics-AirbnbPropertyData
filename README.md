@@ -180,7 +180,7 @@ Masalah Umum pada Data:
    - Fitur amenities disimpan dalam format string JSON-like yang memerlukan parsing.
 
 Sumber data yang digunakan berasal dari dataset Airbnb yang dapat diakses melalui tautan berikut:
-https://drive.google.com/drive/folders/1HfWY6uvPdMCKvWzdC1vYjahvdvzvZcOr?usp=sharing
+[https://drive.google.com/drive/folders/1HfWY6uvPdMCKvWzdC1vYjahvdvzvZcOr?usp=sharing](https://drive.google.com/drive/folders/18UEeT_jL4RbhE4kCFzw0rJ9F1cgeYz_i?usp=sharing)
 
 ## Data Preparation
 Pada tahap ini, dilakukan serangkaian proses pembersihan dan transformasi data untuk memastikan dataset siap digunakan dalam pemodelan Machine Learning. Berikut tahapan yang dilakukan:
